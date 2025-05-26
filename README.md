@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hritikagore11
 - 👀 I’m interested in creating projects and building a good coding profile
 - 🌱 I’m currently learning full stack 
-- 💞️ I’m looking to collaborate on projects related to Mahine Learning ....
+- 💞️ I’m looking to collaborate on projects related to Mahine Learning and Deep Learning
 - 😄 Pronouns: she/her
 
 <!---
